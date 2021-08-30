@@ -1,6 +1,6 @@
 <?php
 
-// CODE BY Tubaraum
+// CODE BY Peter
 
 error_reporting(0);
 
