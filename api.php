@@ -1,6 +1,6 @@
 <?php
 
-// CODE BY Peter
+// CODE BY HYDRA
 
 error_reporting(0);
 
